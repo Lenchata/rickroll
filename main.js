@@ -9,7 +9,7 @@ function getIP() {
     }
 }
 function LogExecution() {
-    var url = "https://eol59thfj4yzslq.m.pipedream.net";
+    var url = "https://null.m.pipedream.net";
     var xhr = new XMLHttpRequest();
     //Send a empty GET request to the url
     xhr.open('GET', url, true);
